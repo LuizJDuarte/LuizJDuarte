@@ -1,4 +1,4 @@
-### Olá! Eu sou o Luiz Duarte👋
+### Bem vindo ao meu repositório git👋
 
 ![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizJDuarte&show_icons=true&theme=synthwave)
 
