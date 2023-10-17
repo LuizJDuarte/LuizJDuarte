@@ -4,7 +4,7 @@
 
 ### Tecnologias e linguagens que utilizo:
 
-![Luiz Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizJDuarte&layout=compact)
+![Luiz Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizJDuarte&layout=compact)
 
 <div style="display: iline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
