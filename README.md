@@ -1,7 +1,5 @@
 ### Bem vindo ao meu repositório git👋
 
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizJDuarte&show_icons=true&theme=synthwave)
-
 ### Tecnologias e linguagens que utilizo:
 
 ![Luiz Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizJDuarte&layout=compact)
