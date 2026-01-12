@@ -1,14 +1,17 @@
-<h2 align="left">Hey, my name is Luiz!</h2>
-<h4>Welcome to my repository, this is where I keep some of my studies and projects.</h4>
+<h1 align="center">Luiz José Duarte ☕</h1>
 
 ###
 
+## 🖥️ Tecnologias Utilizadas 
 <div align="center">
-  <img src="https://github-readme-stats-two-no-outline.vercel.app/api/top-langs/?username=LuizJDuarte&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
-  
-  <img src="https://streak-stats.demolab.com?user=LuizJDuarte&theme=dracula" height="150" alt="streak graph" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,py,ts,js,nodejs,express,cypress,docker,aws,mysql,postgresql" alt="Minhas Tecnologias" />
 </div>
 
+###
 
+## 📊 Estatísticas
+<div align="center">
+  <img src="https://github-readme-stats-alpha-five.vercel.app/api?username=LuizJDuarte&show_icons=true&theme=dracula&rank_icon=github&display_format=compact" height="150" alt="github stats" />
+</div>
 
 ###
