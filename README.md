@@ -11,7 +11,8 @@
 
 ## 📊 Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats-alpha-five.vercel.app/api?username=LuizJDuarte&show_icons=true&theme=dracula&rank_icon=github&display_format=compact" height="150" alt="github stats" />
+  <img src="https://github-readme-stats-alpha-five.vercel.app/api?username=LuizJDuarte&show_icons=true&theme=dracula&rank_icon=github&display_format=compact" height="160" alt="github stats" />
+  
 </div>
 
 ###
