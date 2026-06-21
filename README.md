@@ -1,9 +1,6 @@
 <h1 align="center">Luiz José Duarte ☕</h1>
 
 ###
-Olá! 
-Me chamo Luiz José, sou um estudante de Ciência da Computação, e almejo trabalhar com desenvolvimento Backend.
-###
 
 ## 🖥️Minhas Tecnologias Utilizadas
 <div align="center">
